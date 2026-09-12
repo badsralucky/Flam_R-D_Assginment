@@ -48,7 +48,7 @@ npm run build
 
 ### Submission
 
-See `SUBMISSION.md` for the plain-language explanation intended for the evaluator.
+See `SUBMISSION.md` for the plain-language explanation.
 
 ### Future work
 
