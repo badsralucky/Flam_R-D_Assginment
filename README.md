@@ -1,7 +1,7 @@
 # PlantPulse
 
 ## Frontend R&D Assignment — Performance-Critical Data Visualization Dashboard
-
+## **DEPLOYMENT LINK : https://flam-r-d-assginment.vercel.app/**
 PlantPulse is a small environmental telemetry dashboard built with React and TypeScript.
 
 I chose this assignment because it connects naturally with my previous data/ML work involving plant-health data and environmental features such as soil moisture, temperature, humidity and light.
